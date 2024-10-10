@@ -1,0 +1,7 @@
+services:
+  rsyslog:
+    image: vultureworker/rsyslog_demo:latest
+    command: rsyslogd -nf /etc/rsyslog.conf
+    volumes:
+      - ./rsyslog.d/:/etc/rsyslog.d/
+      - ./logs/:/logs/

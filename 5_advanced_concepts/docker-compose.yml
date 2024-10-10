@@ -1,0 +1,21 @@
+services:
+  rsyslog-1:
+    image: vultureworker/rsyslog_demo:latest
+    command: rsyslogd -nf /etc/rsyslog.conf
+    ports:
+      - 8514:514
+    volumes:
+      - ./rsyslog-1/rsyslog.d/:/etc/rsyslog.d/
+      - ./rsyslog-1/logs/:/logs/
+  rsyslog-receiver:
+    image: vultureworker/rsyslog_demo:latest
+    command: rsyslogd -nf /etc/rsyslog.conf
+    volumes:
+      - ./rsyslog-receiver/rsyslog.d/:/etc/rsyslog.d/
+      - ./rsyslog-receiver/logs/:/logs/
+  rsyslog-backup:
+    image: vultureworker/rsyslog_demo:latest
+    command: rsyslogd -nf /etc/rsyslog.conf
+    volumes:
+      - ./rsyslog-backup/rsyslog.d/:/etc/rsyslog.d/
+      - ./rsyslog-backup/logs/:/logs/

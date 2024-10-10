@@ -1,0 +1,100 @@
+<15>Nov 20 00:07:28 machine-01 sshd[10809]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42546
+<15>Nov 20 00:06:28 machine-02 sshd[20890]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<15>Nov 20 00:14:28 machine-01 sshd[14847]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42728
+<15>Nov 20 00:00:58 machine-02 sshd[17709]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<15>Nov 20 00:16:33 machine-01 sshd[16050]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 35892
+<15>Nov 20 00:01:28 machine-01 sshd[7348]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:14:18 machine-01 sshd[14752]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42724
+<15>Nov 20 00:16:28 machine-01 sshd[16003]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42780
+<15>Nov 20 00:09:08 machine-01 sshd[11773]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42590
+<15>Nov 20 00:00:03 machine-06 sshd[24728]: Accepted publickey for process from fe80:1:2:4:42:1:0:1 port 49874 ssh2: RSA SHA256:dubvBGRXJ33SH3QUKd3wP7S1/eUqwzDA1LNZ8kYsp11
+<15>Nov 20 00:08:34 machine-02 sshd[22090]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52084
+<15>Nov 20 00:10:19 machine-02 sshd[23101]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<15>Nov 20 00:11:19 machine-02 sshd[23677]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<15>Nov 20 00:09:38 machine-01 sshd[12055]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:06:03 machine-01 sshd[9998]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 35620
+<15>Nov 20 00:16:48 machine-01 sshd[16191]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42788
+<15>Nov 20 00:01:38 machine-01 sshd[7442]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42394
+<15>Nov 20 00:09:44 machine-02 sshd[22760]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52114
+<15>Nov 20 00:08:58 machine-01 sshd[11667]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:05:38 machine-02 sshd[20408]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36260
+<15>Nov 20 00:10:54 machine-02 sshd[23430]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52144
+<15>Nov 20 00:00:01 machine-03 sshd[20983]: pam_unix(sshd:session): session closed for user process
+<15>Nov 20 00:03:34 machine-02 sshd[19206]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 51954
+<15>Nov 20 00:16:48 machine-01 sshd[16191]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:12:38 machine-01 sshd[13788]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42680
+<15>Nov 20 00:03:58 machine-02 sshd[19441]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<15>Nov 20 00:06:23 machine-01 sshd[10186]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 35628
+<15>Nov 20 00:04:08 machine-02 sshd[19547]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36222
+<15>Nov 20 00:00:06 machine-04 sshd[17153]: pam_unix(sshd:session): session opened for user process by (uid=0)
+<15>Nov 20 00:14:24 machine-02 sshd[25454]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52236
+<15>Nov 20 00:10:18 machine-01 sshd[12444]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42620
+<15>Nov 20 00:03:48 machine-01 sshd[8688]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42450
+<15>Nov 20 00:09:49 machine-02 sshd[22807]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36368
+<86>Jun  3 08:22:19 machine-05 sshd[54751]: pam_sss(sshd:auth): authentication success; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80:1:2:3:42:1:0:1 user=user1
+<15>Nov 20 00:04:34 machine-02 sshd[19782]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 51980
+<15>Nov 20 00:06:04 machine-02 sshd[20655]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52020
+<15>Nov 20 00:16:49 machine-02 sshd[26844]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<38>Jun  3 06:28:00 machine-01 sshd[978]: Disconnected from user user5 fe80:1:2:3:42:1:0:1 port 47728
+<38>Jun  3 07:02:35 machine-02 sshd[32760]: Disconnected from user user4 fe80:1:2:3:42:1:0:1 port 38512
+<15>Nov 20 00:00:04 machine-06 sshd[24847]: Accepted publickey for process from fe80:1:2:4:42:1:0:1 port 49876 ssh2: RSA SHA256:dubvBGRXJ33SH3QUKd3wP7S1/eUqwzDA1LNZ8kYsp11
+<15>Nov 20 00:16:44 machine-02 sshd[26797]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52296
+<15>Nov 20 00:17:44 machine-02 sshd[27377]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52322
+<15>Nov 20 00:15:19 machine-02 sshd[25986]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36512
+<15>Nov 20 00:15:59 machine-02 sshd[26362]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36528
+<86>Jun  3 07:54:53 machine-07 sshd[20487]: pam_sss(sshd:auth): authentication success; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80:10::ffff user=user2
+<15>Nov 20 00:16:09 machine-02 sshd[26468]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36534
+<15>Nov 20 00:00:04 machine-06 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+<15>Nov 20 00:12:08 machine-01 sshd[13506]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42668
+<15>Nov 20 00:02:38 machine-01 sshd[8018]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42420
+<38>Jun  3 07:53:43 machine-01 sshd[14404]: Disconnected from user user3 fe80:1:2:3:42:1:0:1 port 49654
+<15>Nov 20 00:17:58 machine-01 sshd[16865]: warning: /etc/hosts.allow, line 1: host name/address mismatch: 192.168.1.1 != machine-01.mysite.lan
+<15>Nov 20 00:08:29 machine-02 sshd[22043]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36334
+<15>Nov 20 00:08:24 machine-02 sshd[21996]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52080
+<85>Jun  3 06:56:37 machine-07 sshd[1910]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80:1:2:3:42:1:0:1  user=user4
+<38>Jun  3 06:27:23 machine-02 sshd[12158]: Disconnected from user user5 fe80:1:2:3:42:1:0:1 port 37674
+<15>Nov 20 00:13:14 machine-02 sshd[24783]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52206
+<15>Nov 20 00:00:48 machine-02 sshd[17615]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<15>Nov 20 00:13:54 machine-02 sshd[25159]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 52222
+<15>Nov 20 00:09:48 machine-01 sshd[12150]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42606
+<15>Nov 20 00:06:08 machine-01 sshd[10045]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:12:58 machine-01 sshd[13976]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<85>Jun  3 07:54:53 machine-07 sshd[20487]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80:10::ffff  user=user2
+<38>Jun  3 07:56:40 machine-02 sshd[29719]: Disconnected from user user6 fe80:1:2:3:42:1:0:1 port 39776
+<15>Nov 20 00:08:49 machine-02 sshd[22231]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36342
+<15>Nov 20 00:03:33 machine-01 sshd[8547]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 35554
+<15>Nov 20 00:17:09 machine-02 sshd[27048]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36560
+<38>Jun  3 08:14:29 machine-07 sshd[30906]: Authorized to user3, krb5 principal user3@mysite.lan (krb5_kuserok)
+<15>Nov 20 00:04:04 machine-02 sshd[19500]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 51968
+<15>Nov 20 00:07:08 machine-02 sshd[21279]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36300
+<86>Jun  3 07:36:49 machine-07 sshd[15221]: pam_sss(sshd:auth): authentication success; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80:1:2:3:54:1:0:2 user=user7
+<15>Nov 20 00:10:58 machine-01 sshd[12823]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:05:38 machine-01 sshd[9751]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:00:06 machine-04 sshd[17218]: Accepted publickey for process from fe80:1:2:4:42:1:0:1 port 45216 ssh2: RSA SHA256:dubvBGRXJ33SH3QUKd3wP7S1/eUqwzDA1LNZ8kYsp11
+<85>Jun  3 06:42:24 machine-08 sshd[6904]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80:1:2:3:42:1:0:1  user=user7
+<15>Nov 20 00:03:44 machine-02 sshd[19300]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 51958
+<15>Nov 20 00:10:18 machine-01 sshd[12444]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:03:53 machine-01 sshd[8735]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 35562
+<15>Nov 20 00:07:08 machine-01 sshd[10621]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42538
+<15>Nov 20 00:09:29 machine-02 sshd[22619]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36360
+<15>Nov 20 00:06:18 machine-02 sshd[20796]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<15>Nov 20 00:02:28 machine-01 sshd[7924]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:09:53 machine-01 sshd[12197]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 35718
+<15>Nov 20 00:00:02 machine-06 sshd[24663]: pam_unix(sshd:session): session opened for user process by (uid=0)
+<15>Nov 20 00:01:52 machine-01 sshd[7583]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 35510
+<15>Nov 20 00:12:19 machine-02 sshd[24254]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36434
+<15>Nov 20 00:02:48 machine-01 sshd[8112]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42424
+<15>Nov 20 00:13:48 machine-01 sshd[14458]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-01 != machine-01.mysite.lan
+<15>Nov 20 00:11:59 machine-02 sshd[24053]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<15>Nov 20 00:06:48 machine-02 sshd[21078]: warning: /etc/hosts.allow, line 1: host name/name mismatch: machine-02 != machine-02.mysite.lan
+<15>Nov 20 00:14:59 machine-02 sshd[25783]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36502
+<15> 192.168.1.2 May 18 16:00:17 192.168.1.2 May 18 16:00:17 sshd[10409]: error: connect_to 192.168.1.1 port 443: failed.
+<15>Nov 20 00:09:18 machine-01 sshd[11867]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42594
+<86>Jun  3 06:28:10 machine-09 sshd[19045]: pam_sss(sshd:auth): authentication success; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80:1:2:3:54:1:0:2 user=user5
+<85>Jun  3 07:46:31 machine-07 sshd[17819]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=fe80:1:2:3:54:1:0:2  user=user9
+<38>Jun  3 07:55:47 machine-02 sshd[3122]: Disconnected from user user3 fe80:1:2:3:42:1:0:1 port 40016
+<15>Nov 20 00:11:19 machine-02 sshd[23677]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36408
+<15>Nov 20 00:05:03 machine-01 sshd[9422]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 35594
+<38>Jun  3 08:18:17 machine-07 sshd[30968]: Disconnected from user user3 fe80:1:2:3:54:1:0:2 port 35916
+<15>Nov 20 00:05:48 machine-01 sshd[9845]: Did not receive identification string from fe80:1:2:3:42:1:0:1 port 42502
+<15>Nov 20 00:06:28 machine-02 sshd[20890]: Did not receive identification string from fe80:1:2:3:54:1:0:2 port 36282

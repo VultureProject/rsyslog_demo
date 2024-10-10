@@ -1,0 +1,20 @@
+services:
+  redis:
+    image: redis:latest
+  rsyslog-1:
+    image: vultureworker/rsyslog_demo:latest
+    command: rsyslogd -nf /etc/rsyslog.conf
+    volumes:
+      - ./rsyslog-1/rsyslog.d/:/etc/rsyslog.d/
+      - ./rsyslog-1/logs/:/logs/
+    depends_on:
+      - redis
+      - rsyslog-2
+  rsyslog-2:
+    image: vultureworker/rsyslog_demo:latest
+    command: rsyslogd -nf /etc/rsyslog.conf
+    volumes:
+      - ./rsyslog-2/rsyslog.d/:/etc/rsyslog.d/
+      - ./rsyslog-2/logs/:/logs/
+    depends_on:
+      - redis
